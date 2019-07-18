@@ -6,4 +6,4 @@ JM poursuit avec Open Classroom pour Git.
 
 JM décide ce jeudi 18 juillet de reprendre le "guides.github.com pour le "hello-world" qui est mon tutoriel de départ.
 
-JM a repris a recréé une branche nommée "readme-edits" afin de mieux suivre le "guides.github.com".
+JM a repris pour recréé une branche nommée "readme-edits" afin de mieux suivre le "guides.github.com".
